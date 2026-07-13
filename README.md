@@ -6,7 +6,7 @@ I build application software for businesses helping owners enhance their operati
 * Coffee Roasting blog and ecommerce website [themindfulcoffee.com](https://themindfulcoffee.com)
 * Marketing and ecommerce website for a bakery shop [chouxlab.ca](https://chouxlab.ca)
 ### What's I'm using
-* Proxmox linux server 
+* Proxmox linux server.
 * Light weight Kubernetes, Cloudflair DNS hosting and Traefik routing.
 * Docker for apps containerizing and deployments using K3s and K9s.
 * Ruby on Rails and PostgreSQL for the back end and Database development.
