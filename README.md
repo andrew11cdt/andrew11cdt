@@ -3,8 +3,8 @@ I build application software for businesses helping owners enhance their operati
 ### What I'm focused on 
 * Lightweight self-hosted systems and ops tooling
 * Networking and local network configuration
-* Coffee Roasting blog and ecommerce website [themindfulcoffee.com](themindfulcoffee.com)
-* Marketing and ecommerce website for a bakery shop [chouxlab.ca](chouxlab.ca)
+* Coffee Roasting blog and ecommerce website [www.themindfulcoffee.com](themindfulcoffee.com)
+* Marketing and ecommerce website for a bakery shop [www.chouxlab.ca](chouxlab.ca)
 ### What's I'm using
 * Proxmox linux server 
 * Light weight Kubernetes, Cloudflair DNS hosting server and Traefik for routing
