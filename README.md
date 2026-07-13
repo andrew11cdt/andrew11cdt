@@ -8,7 +8,7 @@ I build application software for businesses helping owners enhance their operati
 ### What's I'm using
 * Proxmox linux server 
 * Light weight Kubernetes, Cloudflair DNS hosting server and Traefik for routing
-* Docker for apps containerizing and K3s deployments. 
+* Docker for apps containerizing and deployments using K3s and K9s
 * Ruby on Rails and PostgreSQL for the back end and Database development 
 * React and Redux for the front end website.
 ### My recent projects
@@ -19,8 +19,8 @@ I build application software for businesses helping owners enhance their operati
 * How to containerize application and deployment using Docker and Kubernetes 
 * How to remote access to a Server securely
 #### Others
-* Advestising content display on a monitor for shop with Rasberry Pi
-* Roasting coffee with Arduino and Artisan Scope
+* [raspi-ads](https://github.com/andrew11cdt/raspi-ads) Advestising content display on a monitor for shop with Rasberry Pi
+* [artisan-skywalker-setups](https://github.com/andrew11cdt/artisan-skywalker-setups) Roasting coffee with Arduino and Artisan Scope
 <!--
 **andrew11cdt/andrew11cdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
