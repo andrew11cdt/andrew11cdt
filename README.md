@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew 👋
 I build application software for businesses helping owners enhance their operations, understand about their customers, improve efficiency.
 ### What I'm focused on 
-* Lightweight self-hosted systems and ops tooling.
+* Lightweight self-hosted server and ops tooling.
 * Networking and local network configuration.
 * Coffee Roasting blog and ecommerce website [themindfulcoffee.com](https://themindfulcoffee.com)
 * Marketing and ecommerce website for a bakery shop [chouxlab.ca](https://chouxlab.ca)
