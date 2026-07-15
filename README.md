@@ -6,9 +6,9 @@ I build application software for businesses helping owners enhance their operati
 * Coffee Roasting blog and ecommerce website [themindfulcoffee.com](https://themindfulcoffee.com)
 * Marketing and ecommerce website for a bakery shop [chouxlab.ca](https://chouxlab.ca)
 ### What's I'm using
-* Proxmox linux server.
-* Light weight Kubernetes, Cloudflair DNS hosting and Traefik routing.
-* Docker for apps containerizing and deployments using K3s and K9s.
+* Proxmox VMs linux server running Kubernetes (K3s), Traefik as ingress Controller.
+* Cloudflair DNS hosting and certificate management.
+* Docker for apps containerizing.
 * Ruby on Rails and PostgreSQL for the back end and Database development.
 * React and Redux for the front end website.
 ### My recent projects
@@ -17,7 +17,7 @@ I build application software for businesses helping owners enhance their operati
 * Internet routing and local network configuration.
 * Proxmox server and virtual machines (VMs).
 * How to containerize application and deployment using Docker and Kubernetes.
-* How to remote access to a Server securely.
+* How to remote access to a Server securely using Tailscale
 #### Others
 * [raspi-ads](https://github.com/andrew11cdt/raspi-ads) Advestising content display on a monitor for shop with Rasberry Pi.
 * [artisan-skywalker-setups](https://github.com/andrew11cdt/artisan-skywalker-setups) Roasting coffee with Arduino and Artisan Scope.
